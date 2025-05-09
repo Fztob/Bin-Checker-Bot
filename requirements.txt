@@ -1,4 +1,4 @@
-asyncio
-Pyrogram==1.4.8
-TgCrypto 
+pyrogram
+tgcrypto
 requests
+python-dotenv
