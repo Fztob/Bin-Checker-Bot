@@ -3,3 +3,4 @@ tgcrypto
 requests
 python-dotenv
 python-telegram-bot
+aiohttp
